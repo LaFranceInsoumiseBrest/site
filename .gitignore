@@ -1,5 +1,13 @@
-_site
-.sass-cache
+.obsidian/
+tmp/
+.DS_Store
+.bundle
 .jekyll-cache
-.jekyll-metadata
-vendor
+.sass-cache
+Gemfile.lock
+_site
+*.gem
+*.scratch
+*.back
+*.bk
+*.backup
